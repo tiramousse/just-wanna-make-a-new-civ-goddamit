@@ -34,5 +34,41 @@
 			"Patches City","Mimirine","Mimikyeong","Thread City","New Mimikura","New Mimikum","Fuck Pikachu","Markura","Mimikyork","Mimironto",
 			"Mimikyo","Seoulkyu","Tokyu","Stan Mimikyu","Luv me please","Great Mimikyu","Jesse's Mimikyu","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
-	}
+
+	},
+	{
+		"name": "Maritime Republic",
+		"leaderName": "Senna",
+		"adjective": ["Maritimian"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "We come in peace!",
+		"startIntroPart2": "Some random oceanic empire",
+		
+		"declaringWar": "You are going to die",
+		"attacked": "Vile!",
+		"defeated": "This isn't the end.",
+		"introduction": "Greetings.",
+		
+		"neutralHello": "How are you doing?",
+		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
+		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
+		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+
+		"hateHello": "What do you want now?",
+		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
+		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		
+		"afterPeace": "Very well, all that fighting was getting boring anyway.",
+		"tradeRequest": "We bestow you the honor of this trade offer.",
+
+		"outerColor": [38,236,179],
+		"innerColor": [180,83,59],
+		"uniques": "Discover[Astronomy]",
+		"cities": ["Thalassia","Ferizoni","Yerru","Sansrival City,"Oceania","Saranha","Vaporaiso","Axolotl City","Playa Narra","Coselei","Serrona",
+			"Agil","Carahana","Solaria","Soveneigh","Caligos","Asamaya","Sharko","Miraga","Gelera","Daliso","Arca","Camaya"]
+
+	}ar
 ]
