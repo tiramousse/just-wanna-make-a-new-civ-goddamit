@@ -1,17 +1,15 @@
 [
 	{
-		"name": "Phasers",
+		"name": "Mimikyu",
 		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"uniqueTo": "Mimikyu's Empire",
+		"replaces": "Warrior",
+		"movement": 15,
+		"strength": 1000,
+		"rangedStrength": 500,
+		"range": 3,
+		"cost": 5,
+		"requiredTech": "Agriculture",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
 	}
 ]
