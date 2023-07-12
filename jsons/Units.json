@@ -1,12 +1,12 @@
 [
 	{
 		"name": "Mimikyu",
-		"unitType": "Ranged",
+		"unitType": "Sword",
 		"uniqueTo": "Mimikyu's Empire",
 		"replaces": "Warrior",
 		"movement": 15,
 		"strength": 1000,
-		"rangedStrength": 500,
+		"rangedStrength": 1000,
 		"range": 3,
 		"cost": 5,
 		"requiredTech": "Agriculture",
