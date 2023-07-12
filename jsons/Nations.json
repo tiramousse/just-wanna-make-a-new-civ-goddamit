@@ -3,7 +3,7 @@
 		"name": "Mimikyu's Empire",
 		"leaderName": "Mimikyu",
 		"adjective": ["Mimikyu"],
-		"startBias": ["Snow"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
